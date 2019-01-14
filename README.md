@@ -12,3 +12,6 @@
 
  Model outputs:
  PRECO_ES_1fut, for each hour of the next day.
+ 
+ Find the code at:
+ https://github.com/bobmedina/energy_price_forecast/blob/master/DeepRegression_MercadoDiario.ipynb
